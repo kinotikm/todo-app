@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "create github repo",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "style todo app",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Alhamdulilah!",
+      "completed": false
+    },
+    {
+      "id": "99b4",
+      "title": "kevi",
+      "completed": "false"
+    },
+    {
+      "id": "dfb4",
+      "title": "applicaion",
+      "completed": "false"
+    }
+  ]
+}
